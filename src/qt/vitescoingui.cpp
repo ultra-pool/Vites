@@ -590,11 +590,11 @@ void vitescoinGUI::telegramActionClicked()
 }
 void vitescoinGUI::youtubeActionClicked()
 {
-        QDesktopServices::openUrl(QUrl("https://www.youtube.com/channel/UCvjD7HWY3OWBKAR0gmDj3QA?view_as=subscriber"));
+        QDesktopServices::openUrl(QUrl("https://www.youtube.com/channel/UCISoLP_H1jke5nWlseX0SMA?view_as=subscriber"));
 }
 void vitescoinGUI::redditActionClicked()
 {
-        QDesktopServices::openUrl(QUrl("https://www.reddit.com/r/VitesEcosystem/"));
+        QDesktopServices::openUrl(QUrl("https://www.reddit.com/r/vitescoin"));
 }
 void vitescoinGUI::telegram2ActionClicked()
 {
